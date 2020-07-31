@@ -1,5 +1,9 @@
 # CIS18A-25775
 
+Version 1.0
+
+Last Updated:7/30/2020
+
 This repository solely consists of the Course Project for my Beginner's Java Course
 
 The repository contains the .java source file needed to run the project as well as basic documentation of the project and its purposes.
